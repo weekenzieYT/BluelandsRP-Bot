@@ -75,4 +75,4 @@ async def on_message(message):
 
 
 
-client.run("NDM2NTAwNjQxNzQ2MTI0ODEw.DbochA.aJDr1wJp-8XXIRSx8yH7wjNmBGM") 
+bot.login(process.env.tocken);
