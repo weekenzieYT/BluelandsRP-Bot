@@ -1,1 +1,1 @@
-worker: node index.js
+worker: BluelandsRP_Bot_1.py
