@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: BluelandsRP Bot 1.py
